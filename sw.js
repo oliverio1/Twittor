@@ -6,8 +6,8 @@ const DYNAMIC_CACHE = 'dynamic-1';
 const INM_CACHE     = 'inm-1';
 
 const APP_SHELL = [
-    '/twittor/',
-    '/twittor/index.html',
+    // '/',
+    'index.html',
     'css/style.css',
     'img/favicon.ico',
     'img/avatars/hulk.jpg',
